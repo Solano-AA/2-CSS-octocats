@@ -1,0 +1,51 @@
+.octocat img{
+    height: 300px;
+    border: 1px solid black;
+}
+
+.octodex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-footer{
+    
+}
+
+.image-number{
+
+}
+
+.image-caption{
+    justify-content: space-between;
+}
+
+.authors img{
+    height: 30px;
+    position: relative;
+    right: 30px;  
+}
+
+.authors li{
+    position: relative;
+    left: 200px;
+    bottom: 20px;
+    justify-content: flex-end;
+}
+
+
+.octocat li{
+    height: 30%;
+}
+
+a:link{
+    font-weight: bold;
+}
+
+* {
+    font-family: sans-serif;
+}
+
+a:visited{
+    font-weight: bold;
+}
